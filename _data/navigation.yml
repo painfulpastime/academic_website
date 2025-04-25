@@ -5,10 +5,10 @@ main:
     url: /files/Resume.pdf
 
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://simonmwaura957.wixsite.com/my-site
   
-  - title: "Publications"
-    url: /publications/
+  - title: "Papers (Not Published)"
+    url: https://drive.google.com/drive/folders/1Ln3-ey9FIKsVNeE-mO1AdoL7A8qvU_0g?usp=sharing
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
         
   # - title: "Blog Posts"
