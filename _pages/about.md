@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
+![Me at grad](/images/grad.jpg){: .align-right width="300px"}
 # Electrical Engineer | Systems Thinker
 Welcome to my little corner of the internet!
 I am an Electrical Engineering graduate passionate about blending technology, innovation, and impact.
