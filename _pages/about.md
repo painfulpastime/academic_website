@@ -16,7 +16,7 @@ Welcome to my little corner of the internet!
 I am an Electrical Engineering graduate passionate about blending technology, innovation, and impact.
 I thrive at the intersection of energy, automation, and data science, solving real-world problems through creativity and applying sound engineering principles.
 
-##What I Do 🚀
+## What I Do 🚀
 
 🔧Power Systems & Automation: Hands-on experience with PLC programming, control engineering, and renewable integration.
 
@@ -26,7 +26,7 @@ I thrive at the intersection of energy, automation, and data science, solving re
 
 👔Entrepreneurship & Consulting: Helping startups and businesses sharpen their operations and strategy.
 
-##A Little More About Me 🎯
+## A Little More About Me 🎯
 
 🎨When I’m not engineering solutions, you'll find me exploring systems theory, diving into finance & venture capital trends, playing a competitive game of chess, or kicking around a soccer ball.
 
